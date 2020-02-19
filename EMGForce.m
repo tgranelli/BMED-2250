@@ -1,3 +1,2 @@
-function output = EMGforce(input)
-%ya yeet
-%but wait there is more
+function output = EMGforce(time, voltage)
+
